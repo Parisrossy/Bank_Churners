@@ -102,7 +102,7 @@ st.image('pngwing.com (20).png', width = 600)
 st.markdown("<h2 style = 'color: #2B2A4C; text-align: center;font-family: Arial, Helvetica, sans-serif; '>BACKGROUND OF STUDY </h2>", unsafe_allow_html= True)
 
 st.markdown('<br>', unsafe_allow_html= True)
-st.markdown("<p>Predicting customer churn in banking involves analyzing various factors that contribute to customers leaving or discontinuing their services. Here's a breakdown of steps for a background study.</p>",unsafe_allow_html= True)
+st.markdown("<p>Predicting customer churn in banking involves analyzing various factors that contribute to customers leaving or discontinuing their services.</p>",unsafe_allow_html= True)
 
 st.sidebar.image('pngwing.com (21).png')
 st.markdown('<br>', unsafe_allow_html= True)
